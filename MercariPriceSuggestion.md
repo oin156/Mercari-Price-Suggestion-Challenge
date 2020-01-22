@@ -10,5 +10,5 @@ Minimize the difference between predicted and actual price (RMSLE)
 Try to provide some interpretability
 
 ![Mercari Logo](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/mercari.JPG)
-![Results Logo](/images/logo.png)
+![Results Logo](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/64.JPG)
 
