@@ -9,6 +9,6 @@ Predict the price of an item given its condition, description and other related 
 Minimize the difference between predicted and actual price (RMSLE)
 Try to provide some interpretability
 
-![Mercari Logo](/images/logo.png)
+![Mercari Logo](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/mercari.JPG)
 ![Results Logo](/images/logo.png)
 
