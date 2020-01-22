@@ -15,4 +15,5 @@ Here is the link:
 
 ![Mercari Logo](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/mercari.JPG)
 ![Results Logo](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/64.JPG)
+![Leaderboard Score](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/submission_kaggle.JPG)
 
