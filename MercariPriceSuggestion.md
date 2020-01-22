@@ -9,6 +9,10 @@ Predict the price of an item given its condition, description and other related 
 Minimize the difference between predicted and actual price (RMSLE)
 Try to provide some interpretability
 
+For understanding this real-world case study and my way of solving it, visit my story on Medium. 
+Here is the link:
+
+
 ![Mercari Logo](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/mercari.JPG)
 ![Results Logo](https://github.com/oin156/Mercari-Price-Suggestion-Challenge/blob/master/64.JPG)
 
